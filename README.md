@@ -48,6 +48,9 @@ Duration	Exercise duration (minutes)
 Heart Rate	Average heart rate (bpm)
 Body Temp	Body temperature (°C)
 Calories	Target variable (calories burnt)
+
+
+
 ⚙️ How It Works
 
 🧹 Data Preprocessing
@@ -57,6 +60,7 @@ Merging datasets
 Encoding gender
 
 Handling nulls and scaling data
+
 
 🧮 Model Training
 
@@ -69,6 +73,7 @@ Model evaluation using R² score & MAE
 Model saved as RandomForest.pkl
 
 Integrated with a Streamlit app for real-time prediction
+
 
 🎨 UI & Design Highlights
 Feature	Description
